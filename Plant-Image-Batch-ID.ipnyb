@@ -8,11 +8,11 @@
 #
 # The API can be found free at: https://plantnet.org/
 #
-# Script is modified from an example on their github: https://github.com/plantnet
+# Script is modified from an example on their Github: https://github.com/plantnet
 #
-# Note: There is a delay of 3 second between each image, so be patient! :)
+# Note: There is a delay of 3 seconds between each image, so be patient! :)
 #
-# For more tips and info, see readme.md at https://github.com/stark1tty/useful_scripts
+# For more tips and info, see readme.md at https://github.com/stark1tty/Plant-Image-Batch-ID
 
 # Setup 
 
@@ -79,4 +79,4 @@ with open(csv_file, 'w', newline='', encoding='utf-8') as f:
 
 print(f"Results saved to {csv_file}")
 
-# Source: https://github.com/stark1tty/useful_scripts
+# Source: https://github.com/stark1tty/Plant-Image-Batch-ID
