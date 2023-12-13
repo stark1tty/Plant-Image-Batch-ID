@@ -1,11 +1,15 @@
 ### 🌿🌿🌿 Plant-Image-Batch-ID 🌿🌿🌿
 
+---
+
 A streamlined Python script for batch identification of plants from images using the PlantNet API. It processes multiple image formats and efficiently saves the identification results along with confidence scores and common names into a CSV file.
 
 #### Features
 - **Batch Processing:** Handles multiple images in a directory.
 - **Multiple Image Formats:** Supports `.jpeg`, `.jpg`, `.png`, and `.bmp`.
 - **Detailed Output:** Results include species name, score, and common names.
+
+---
 
 #### Setup and Usage
 1. Clone or download this repository to your local machine.
@@ -21,6 +25,8 @@ A streamlined Python script for batch identification of plants from images using
 ```python
 pip install os csv requests time
 ```
+
+---
 
 #### Additional Resources
 - [Kutools for Excel](https://www.extendoffice.com/product/kutools-for-excel.html): Useful for inserting images into Excel.
